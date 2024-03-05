@@ -5,4 +5,4 @@ git commit -m "hello git": đưa thay đổi vào local repo,tạo 1 snapshot l�
 git remote: ket noi local repo voi remote repo
 git push origin master : day code tu local repo len remote repo
 abcdsdgsfsdfsdfsdf
-gi
+giaSJCHZBCBSCHJASCSCSACASCA
