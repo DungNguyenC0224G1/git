@@ -4,4 +4,4 @@ git add <tên-file>: đẩy file demo.txt vào staging area
 git commit -m "hello git": đưa thay đổi vào local repo,tạo 1 snapshot lưu tru lai lich thay doi
 git remote: ket noi local repo voi remote repo
 git push origin master : day code tu local repo len remote repo
-ab
+abcdsdg
